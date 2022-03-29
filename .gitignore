@@ -1,0 +1,3 @@
+# list of files and directories that we don't want included when uploading the package to github
+ mypackage.egg-info
+ mypackage/__pychache__
